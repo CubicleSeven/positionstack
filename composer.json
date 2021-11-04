@@ -23,7 +23,7 @@
                 "FilippoToso\\PositionStack\\ServiceProvider"
             ],
             "aliases": {
-                "PositionStack": "FilippoToso\\PositionStack\\Facade"
+                "PositionStack": "FilippoToso\\PositionStack\\Facade\\PositionStack"
             }
         }
     }
